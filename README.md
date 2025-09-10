@@ -1,3 +1,4 @@
 # Conflicts-Lab 
 
-conflicts practice
+def greet():
+print("Hello, from Student B!)
